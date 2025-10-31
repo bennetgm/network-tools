@@ -1,0 +1,5 @@
+flask
+paramiko
+ping3
+pyyaml
+plotly
